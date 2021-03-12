@@ -1,1 +1,1 @@
-web : gunicorn portfolio --log-file -
+web: gunicorn atechie_website_portfolio.wsgi
